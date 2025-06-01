@@ -1,6 +1,3 @@
-# LearnWithMe
-
-![learn-with-me](https://github.com/user-attachments/assets/9a4ad7a9-6239-412a-b89e-2d175e829fd3)
 
 ## Inspiration
 
